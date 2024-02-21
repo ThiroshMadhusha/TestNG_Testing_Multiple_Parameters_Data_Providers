@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T14:55:41 IST" name="Default suite" finished-at="2024-02-19T14:55:41 IST" duration-ms="93">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T14:55:41 IST" name="Default test" finished-at="2024-02-19T14:55:41 IST" duration-ms="93">
+      <class name="testPractise.TestPractise2">
+        <test-method signature="MultipleObjectTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="MultipleObjectTestMethod" data-provider="multipleDataProvider" finished-at="2024-02-19T14:55:41 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleObjectTestMethod -->
+        <test-method signature="MultipleObjectTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="MultipleObjectTestMethod" data-provider="multipleDataProvider" finished-at="2024-02-19T14:55:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Baby]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[30]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleObjectTestMethod -->
+        <test-method signature="MultipleObjectTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="MultipleObjectTestMethod" data-provider="multipleDataProvider" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleObjectTestMethod -->
+        <test-method signature="MultipleObjectTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="MultipleObjectTestMethod" data-provider="multipleDataProvider" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleObjectTestMethod -->
+        <test-method signature="MultipleObjectTestMethod(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="MultipleObjectTestMethod" data-provider="multipleDataProvider" finished-at="2024-02-19T14:55:41 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MultipleObjectTestMethod -->
+        <test-method signature="SingleObjectTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleObjectTestMethod" data-provider="SingleTestDataMethod2" finished-at="2024-02-19T14:55:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleObjectTestMethod -->
+        <test-method signature="SingleObjectTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleObjectTestMethod" data-provider="SingleTestDataMethod2" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleObjectTestMethod -->
+        <test-method signature="SingleObjectTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleObjectTestMethod" data-provider="SingleTestDataMethod2" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleObjectTestMethod -->
+        <test-method signature="SingleStringTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleStringTestMethod" data-provider="singleDataProviderMethod1" finished-at="2024-02-19T14:55:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Thirosh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleStringTestMethod -->
+        <test-method signature="SingleStringTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleStringTestMethod" data-provider="singleDataProviderMethod1" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Madhusha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleStringTestMethod -->
+        <test-method signature="SingleStringTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleStringTestMethod" data-provider="singleDataProviderMethod1" finished-at="2024-02-19T14:55:41 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pasan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleStringTestMethod -->
+        <test-method signature="SingleStringTestMethod(java.lang.String)[pri:0, instance:testPractise.TestPractise2@7b2bbc3]" started-at="2024-02-19T14:55:41 IST" name="SingleStringTestMethod" data-provider="singleDataProviderMethod1" finished-at="2024-02-19T14:55:41 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sayu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SingleStringTestMethod -->
+      </class> <!-- testPractise.TestPractise2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
